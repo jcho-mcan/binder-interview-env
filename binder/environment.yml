@@ -1,0 +1,23 @@
+name: interview-env
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+
+  # Python
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+
+  # R
+  - r-base=4.3
+  - r-irkernel
+  - r-tidyverse
+  - r-data.table
+  - r-lubridate
+  - r-readxl
+  - r-reticulate
