@@ -3,7 +3,7 @@
 ## Choose your environment:
 
 ### 🔵 Python (JupyterLab)
-https://mybinder.org/v2/gh/YOUR_USERNAME/REPO_NAME/HEAD
+https://mybinder.org/v2/gh/jcho-mcan/binder-interview-env/HEAD
 
 - Open: notebooks/python_starter.ipynb
 - Kernel: Python 3
@@ -11,7 +11,7 @@ https://mybinder.org/v2/gh/YOUR_USERNAME/REPO_NAME/HEAD
 ---
 
 ### 🟢 R (Jupyter)
-https://mybinder.org/v2/gh/YOUR_USERNAME/REPO_NAME/HEAD
+https://mybinder.org/v2/gh/jcho-mcan/binder-interview-env/HEAD
 
 - Open: notebooks/r_starter.ipynb
 - Kernel: R
@@ -19,7 +19,7 @@ https://mybinder.org/v2/gh/YOUR_USERNAME/REPO_NAME/HEAD
 ---
 
 ### 🟡 RStudio (optional)
-https://mybinder.org/v2/gh/YOUR_USERNAME/REPO_NAME/HEAD?urlpath=rstudio
+https://mybinder.org/v2/gh/jcho-mcan/binder-interview-env/HEAD?urlpath=rstudio
 
 - tidyverse preloaded
 
